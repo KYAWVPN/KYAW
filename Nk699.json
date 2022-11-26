@@ -5,19 +5,19 @@
 
 
 {
-         "name": "Config-Version 1.5",
+         "name": "Config-Version 1.6",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/FREE-DTAC01.ovpn"
       }
 ,
 
 {
-         "name": "TH-TRUE-DTAC-FREE01",
+         "name": "TH-True-Dtac-Free01",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/FREE-DTAC02.ovpn"
       }
 ,
 
 {
-         "name": "SG-TRUE-DTAC-FREE02",
+         "name": "SG-True-Dtac-Free02",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/FREE-DTAC03.ovpn"
       }
 ,
@@ -65,5 +65,5 @@
 📤ဖိုင်တင်ရက် 27/11/2022
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":5
+   "version":6
 }
