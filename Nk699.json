@@ -6,18 +6,18 @@
 
 
 {
-         "name": "TH-VIP-Dtac-GAMES01",
+         "name": "TH-VIP-DTAC-GAMES01",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC03.ovpn"
       }
 ,
 
 {
-         "name": "TH-VIP-Dtac-GAMES02",
+         "name": "TH-VIP-DTAC-GAMES02",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC01.ovpn"
       }
 ,
 {
-         "name": "TH-VIP-Dtac03",
+         "name": "TH-VIP-DTAC03",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC02.ovpn"
       }
 ,
@@ -48,5 +48,5 @@
 📤ဖိုင်တင်ရက် 08/12/2022
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":9
+   "version":8
 }
