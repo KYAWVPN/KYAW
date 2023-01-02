@@ -4,6 +4,11 @@
 
 
 
+{
+         "name": "Config-Version 1.4",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/FREE-DTAC01.ovpn"
+      }
+,
 
 {
          "name": "TH-VIP-DTAC-GAMES01",
@@ -27,6 +32,16 @@
       }
 ,
 {
+         "name": "TH-VIP-DTAC05",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE04.ovpn"
+      }   
+,
+{
+         "name": "TH-VIP-DTAC06",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE05.ovpn"
+      }   
+,
+{
          "name": "TH-VIP-True-GAMES01",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC03.ovpn"
       }
@@ -45,6 +60,16 @@
          "name": "TH-VIP-True04",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
       }
+,      
+      {
+         "name": "TH-VIP-True05",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE04.ovpn"
+      }   
+,
+{
+         "name": "TH-VIP-True06",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE05.ovpn"
+      }   
    ],
 "message":"
 🔵DTAC NOPRO
@@ -55,8 +80,8 @@
 🏅VIP Game+Online
 🏅VIP တစ်လမှ၅၀ဘတ်>>
 🎁ကြိုက်ရာသုံးအကန့်အသတ်မရှိ
-📤ဖိုင်တင်ရက် 16/12/2022
+📤ဖိုင်တင်ရက် 02/01/2023
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":11
+   "version":4
 }
