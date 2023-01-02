@@ -5,8 +5,8 @@
 
 
 {
-         "name": "Config-Version 1.4",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/FREE-DTAC01.ovpn"
+         "name": "Config-Version 1.5",
+ 
       }
 ,
 
@@ -70,6 +70,7 @@
          "name": "TH-VIP-True06",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE05.ovpn"
       }   
+      
    ],
 "message":"
 🔵DTAC NOPRO
@@ -83,5 +84,5 @@
 📤ဖိုင်တင်ရက် 02/01/2023
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":4
+   "version":5
 }
