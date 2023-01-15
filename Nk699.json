@@ -5,14 +5,8 @@
 
 
 {
-         "name": "Config-Version 1.5",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE05.ovpn"
-      }
-,
-
-{
          "name": "TH-VIP-DTAC-GAMES01",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC03.ovpn"
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
       }
 ,
 
@@ -43,7 +37,7 @@
 ,
 {
          "name": "TH-VIP-True-GAMES01",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC03.ovpn"
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
       }
 ,
 {
@@ -81,8 +75,8 @@
 🏅VIP Game+Online
 🏅VIP တစ်လမှ၅၀ဘတ်>>
 🎁ကြိုက်ရာသုံးအကန့်အသတ်မရှိ
-📤ဖိုင်တင်ရက် 02/01/2023
+📤ဖိုင်တင်ရက် 15/01/2023
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":5
+   "version":6
 }
