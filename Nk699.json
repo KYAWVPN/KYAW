@@ -26,13 +26,8 @@
       }
 ,
 {
-         "name": "TH-VIP-DTAC05",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE04.ovpn"
-      }   
-,
-{
-         "name": "TH-VIP-DTAC06",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE05.ovpn"
+         "name": "TH-VIP-DTAC-GAMES05",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES5.ovpn"
       }   
 ,
 {
@@ -55,18 +50,14 @@
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
       }
 ,      
-      {
-         "name": "TH-VIP-True05",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE04.ovpn"
-      }   
-,
 {
-         "name": "TH-VIP-True06",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE05.ovpn"
+         "name": "TH-VIP-True-GAMES05",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES5.ovpn"
       }   
       
    ],
 "message":"
+VPS-VIP-အသစ် TH-VIP-True-GAMES05 ပါ
 🔵DTAC NOPRO
 🔴TRUE NOPRO
 🎰စလော့ဂိမ်း
@@ -75,8 +66,8 @@
 🏅VIP Game+Online
 🏅VIP တစ်လမှ၅၀ဘတ်>>
 🎁ကြိုက်ရာသုံးအကန့်အသတ်မရှိ
-📤ဖိုင်တင်ရက် 15/01/2023
+📤ဖိုင်တင်ရက် 29/01/2023
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":6
+   "version":7
 }
