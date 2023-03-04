@@ -2,11 +2,6 @@
    "files": [    
 
 
-{
-         "name": "TH-VIP-FREE",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/VIP-FREE.ovpn"
-      }
-,
 
 {
          "name": "TH-VIP-DTAC-GAMES01",
@@ -20,12 +15,12 @@
       }
 ,
 {
-         "name": "TH-VIP-DTAC03",
+         "name": "TH-VIP-DTAC-GAMES03",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC02.ovpn"
       }
 ,
 {
-         "name": "TH-VIP-DTAC04",
+         "name": "TH-VIP-DTAC-GAMES04",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
       }
 ,
@@ -50,12 +45,12 @@
       }
 ,
 {
-         "name": "TH-VIP-True03",
+         "name": "TH-VIP-True-GAMES03",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC02.ovpn"
       }   
 ,
 {
-         "name": "TH-VIP-True04",
+         "name": "TH-VIP-True-GAMES04",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
       }
 ,      
@@ -79,16 +74,7 @@ KSO VIPဝန်ဆောင်မှု
 အရင်စမ်းသုံးကြည့်ဦးမယ်ဆိုရင်လဲ ရပါတယ် 
 တစ်ရက်ပေးစမ်းသုံးမယ်။ ကြိုက်မှဝယ်။😬
 သက်တမ်းကုန်နေ့ထိအားမခံသည်
-🔵DTAC NOPRO
-🔴TRUE NOPRO
-🎰စလော့ဂိမ်း
-🟢IOS+Android+PC
-🏅VIP Face+Youtube
-🏅VIP Game+Online
-🎁ကြိုက်ရာသုံးအကန့်အသတ်မရှိ
-📤ဖိုင်တင်ရက် 04/03/2023
-APKဗားရှင်း-11
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":11
+   "version":12
 }
