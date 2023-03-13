@@ -31,7 +31,12 @@
 {
          "name": "TH-VIP-DTAC-GAMES06",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE06.ovpn"
-      }   
+      }         
+,
+{
+         "name": "TH-VIP-DTAC-GAMES07",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
+      }        
 ,
 {
          "name": "TH-VIP-True-GAMES01",
@@ -62,6 +67,12 @@
          "name": "TH-VIP-True-GAMES06",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE06.ovpn"
       }
+      
+ ,
+{
+         "name": "TH-VIP-DTAC-GAMES07",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
+      }        
      
    ],
 "message":"
@@ -75,5 +86,5 @@ KSO VIPဝန်ဆောင်မှု
 သက်တမ်းကုန်နေ့ထိအားမခံသည်
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":13
+   "version":14
 }
