@@ -29,8 +29,8 @@
       }   
 ,
 {
-         "name": "TH-VIP-DTAC-GAMES06",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE06.ovpn"
+         "name": "TH-VIP-DTAC-GAMES-NET06",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
       }         
 ,
 {
@@ -74,8 +74,8 @@
       }   
  ,      
  {
-         "name": "TH-VIP-True-GAMES06",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE06.ovpn"
+         "name": "TH-VIP-True-GAMES-NET06",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
       }    
  ,
 {
@@ -105,5 +105,5 @@ KSO VIPဝန်ဆောင်မှု
 အသစ်ဖိုင်း09အတွက် အပ်ဒိတ်ပေးထားပါ
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":21
+   "version":23
 }
