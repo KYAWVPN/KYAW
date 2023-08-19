@@ -10,7 +10,7 @@
 ,
 {
          "name": "TH-VIP-DTAC-GAMES02",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC01.ovpn"
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
       }
 ,
 {
@@ -22,6 +22,11 @@
          "name": "TH-VIP-DTAC-GAMES04",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
       }
+ ,
+{
+         "name": "TH-VIP-DTAC-GAMES044",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/kyaw4net.ovpn"
+      }      
 ,
 {
          "name": "TH-VIP-DTAC-GAMES05",
@@ -50,7 +55,7 @@
 ,
 {
          "name": "TH-VIP-True-GAMES02",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC01.ovpn"
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
       }
 ,
 {
@@ -61,6 +66,11 @@
 {
          "name": "TH-VIP-True-GAMES04",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
+      }
+ ,
+{
+         "name": "TH-VIP-True-GAMES044",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/kyaw4net.ovpn"
       }
 ,      
 {
@@ -94,5 +104,5 @@ KSO VIPဝန်ဆောင်မှု
 🤩🤩တစ်လ💰50ဘတ်ပါ
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":4
+   "version":5
 }
