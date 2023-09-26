@@ -46,7 +46,12 @@
 {
          "name": "TH-VIP-DTAC-GAMES08",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/net8.ovpn"
-      }            
+      }    
+ ,
+{
+         "name": "TH-VIP-True-GAMES09",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
+      }             
 ,
 {
          "name": "TH-VIP-True-GAMES01",
@@ -91,7 +96,12 @@
 {
          "name": "TH-VIP-True-GAMES08",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/net8.ovpn"
-      }        
+      }     
+ ,
+{
+         "name": "TH-VIP-True-GAMES09",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
+      }                
       
       
      
@@ -99,10 +109,11 @@
 "message":"
 နွေထွေးစွာကြိုဆိုပါ၏
 KSO VIPဝန်ဆောင်မှု
+ဖိုင်းအသစ်ထည့်ထားပေးပါတယ်ဗျ
 အသုံးပြုရနိုင်သော ဆင်းကဒ်များ
 ထူးမူ …ဒီတက် များဖြစ်ပါတယ်
 🤩🤩တစ်လ💰50ဘတ်ပါ
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":97
+   "version":98
 }
