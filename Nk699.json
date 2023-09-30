@@ -51,7 +51,12 @@
 {
          "name": "TH-VIP-DTAC-GAMES09",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-KSO-VIP09.ovpn"
-      }             
+      } 
+ ,
+{
+         "name": "TH-VIP-DTAC-GAMES-Net10",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-10.ovpn"
+      }                         
 ,
 {
          "name": "TH-VIP-True-GAMES01",
@@ -101,19 +106,24 @@
 {
          "name": "TH-VIP-True-GAMES09",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-KSO-VIP09.ovpn"
-      }                
+      } 
+ ,
+{
+         "name": "TH-VIP-True-GAMES-Net10",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-10.ovpn"
+      }                            
       
       
      
    ],
 "message":"
 နွေထွေးစွာကြိုဆိုပါ၏
-KSO VIPဝန်ဆောင်မှု
-ဖိုင်းအသစ်ထည့်ထားပေးပါတယ်ဗျ
+1month-month 50baht💰
+5month-month 220baht💰
 အသုံးပြုရနိုင်သော ဆင်းကဒ်များ
-ထူးမူ …ဒီတက် များဖြစ်ပါတယ်
+TRUE-DTAC များဖြစ်ပါတယ်
 🤩🤩တစ်လ💰50ဘတ်ပါ
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":999
+   "version":109
 }
