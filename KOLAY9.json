@@ -56,7 +56,12 @@
 {
          "name": "TH-VIP-DTAC-10",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-10.ovpn"
-      }                         
+      }  
+ ,
+{
+         "name": "TH-VIP-DTAC-11",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-011.ovpn"
+      }                                    
 ,
 {
          "name": "TH-VIP-True-01",
@@ -111,7 +116,12 @@
 {
          "name": "TH-VIP-True-10",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-10.ovpn"
-      }                            
+      }  
+ ,
+{
+         "name": "TH-VIP-True-11",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-011.ovpn"
+      }                                       
       
       
      
@@ -125,5 +135,5 @@ TRUE-DTAC များဖြစ်ပါတယ်
 🤩🤩တစ်လ💰50ဘတ်ပါ
 \n\nFb: Ko Lay",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":109
+   "version":119
 }
