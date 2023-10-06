@@ -56,6 +56,11 @@
 {
          "name": "TH-VIP-DTAC-KSO-Net-10",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-10.ovpn"
+      }          
+ ,
+{
+         "name": "TH-VIP-DTAC-KSO-🎁-11",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-011.ovpn"
       }                         
 ,
 {
@@ -112,7 +117,11 @@
          "name": "TH-VIP-True-KSO-10",
          "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-10.ovpn"
       }                            
-      
+ ,
+{
+         "name": "TH-VIP-True-KSO-🎁-11",
+         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-011.ovpn"
+      }                  
       
      
    ],
@@ -125,5 +134,5 @@ TRUE-DTAC များဖြစ်ပါတယ်
 🤩🤩တစ်လ💰50ဘတ်ပါ
 \n\nFb: Kyaw Soe Oo",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":88
+   "version":89
 }
