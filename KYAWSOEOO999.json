@@ -1,133 +1,133 @@
 {
-   "files": [    
+   "ဖိုင်များ": [    
 
 
 
 {
          "name": "TH-VIP-DTAC-KSO-01",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
       }
-,
+၊
 {
          "name": "TH-VIP-DTAC-KSO-02",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
       }
-,
+၊
 {
          "name": "TH-VIP-DTAC-KSO-03",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE0-NET03.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE0-NET03.ovpn"
       }
-,
+၊
 {
          "name": "TH-VIP-DTAC-KSO-04",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
       }
- ,
+ ၊
 {
-         "name": "TH-VIP-DTAC-KSO-44",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/kyaw4net.ovpn"
+         "အမည်": "TH-VIP-DTAC-KSO-44",
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/kyaw4net.ovpn"
       }      
-,
+၊
 {
          "name": "TH-VIP-DTAC-KSO-05",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/5.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/5.ovpn"
       }   
-,
+၊
 {
          "name": "TH-VIP-DTAC-KSO-06",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
       }         
-,
+၊
 {
          "name": "TH-VIP-DTAC-KSO-07",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
       }   
- ,
+ ၊
 {
          "name": "TH-VIP-DTAC-KSO-08",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/net8.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/net8.ovpn"
       }    
- ,
+ ၊
 {
          "name": "TH-VIP-DTAC-KSO-Net-09",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-KSO-VIP09.ovpn"
-      } 
- ,
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-KSO-VIP09.ovpn"
+      }
+ ၊
 {
          "name": "TH-VIP-DTAC-KSO-Net-10",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-10.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-10.ovpn"
       }          
- ,
+ ၊
 {
          "name": "TH-VIP-DTAC-KSO-11",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-011.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-011.ovpn"
       }                         
-,
+၊
 {
          "name": "TH-VIP-True-KSO-01",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
       }
-,
+၊
 {
          "name": "TH-VIP-True-KSO-02",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
       }
-,
+၊
 {
          "name": "TH-VIP-True-KSO-03",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE0-NET03.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE0-NET03.ovpn"
       }   
-,
+၊
 {
          "name": "TH-VIP-True-KSO-04",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
       }
- ,
+ ၊
 {
          "name": "TH-VIP-True-KSO-44",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/kyaw4net.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/kyaw4net.ovpn"
       }
-,      
+၊      
 {
          "name": "TH-VIP-True-KSO-05",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/5.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/5.ovpn"
       }   
- ,      
+ ၊      
  {
          "name": "TH-VIP-True-KSO-06",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
       }    
- ,
+ ၊
 {
          "name": "TH-VIP-True-KSO-07",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
       }             
- ,
+ ၊
 {
          "name": "TH-VIP-True-KSO-08",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/net8.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/net8.ovpn"
       }     
- ,
+ ၊
 {
          "name": "TH-VIP-True-KSO-09",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-KSO-VIP09.ovpn"
-      } 
- ,
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-KSO-VIP09.ovpn"
+      }
+ ၊
 {
          "name": "TH-VIP-True-KSO-10",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-10.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-10.ovpn"
       }                            
- ,
+ ၊
 {
          "name": "TH-VIP-True-KSO-11",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-011.ovpn"
+         "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-011.ovpn"
       }                  
       
      
-   ],
-"message":"
+   ]
+"မက်ဆေ့ခ်ျ":"
 
-အပ်ဒိတ် \n\nဗာရှင်:15\n•နွေထွေးစွာကြိုဆိုပါ၏\n\n•1month-month 50baht💰\n•5month-month 220baht💰\n\n•အားပေးမှုအတွက်ကျေးဇူးပါ🥰🙏\n\n·KSO",
-   "title":"VIP" ,
-   "version": 82
+အပ်ဒိတ် \n\nဗာရှင်:15\n•နွေထွေးစွာကြိုဆိုပါ၏\n\n•1လ-လ50baht💰\n•5လ-လ220baht💰\n\n•အားပေးမှုအတွက်ကျေးဇူးပါ🥰🙏\n\n·KSO",
+   "title":"VIP"၊
+   "ဗားရှင်း": 83
 }
