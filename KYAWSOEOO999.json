@@ -8,116 +8,139 @@
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
       }
 ,
+
 {
          "name": "TH-VIP-DTAC-KSO-02",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
       }
 ,
+
 {
          "name": "TH-VIP-DTAC-KSO-03",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE0-NET03.ovpn"
       }
 ,
+
 {
          "name": "TH-VIP-DTAC-KSO-04",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
       }
- ,
+,
+
 {
-         "အမည်": "TH-VIP-DTAC-KSO-44",
+         "name": "TH-VIP-DTAC-KSO-44",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/kyaw4net.ovpn"
       }      
 ,
+
 {
          "name": "TH-VIP-DTAC-KSO-05",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/5.ovpn"
       }   
 ,
+
 {
          "name": "TH-VIP-DTAC-KSO-06",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
       }         
 ,
+
 {
          "name": "TH-VIP-DTAC-KSO-07",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
       }   
- ,
+,
+
 {
          "name": "TH-VIP-DTAC-KSO-08",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/net8.ovpn"
       }    
- ,
+,
+
 {
          "name": "TH-VIP-DTAC-KSO-Net-09",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-KSO-VIP09.ovpn"
       }
- ,
+,
+
 {
          "name": "TH-VIP-DTAC-KSO-Net-10",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-10.ovpn"
       }          
- ,
+,
+ 
 {
          "name": "TH-VIP-DTAC-KSO-11",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-011.ovpn"
       }                         
 ,
+
 {
          "name": "TH-VIP-True-KSO-01",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
       }
 ,
+
 {
          "name": "TH-VIP-True-KSO-02",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
       }
 ,
+
 {
          "name": "TH-VIP-True-KSO-03",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-TRUE0-NET03.ovpn"
       }   
 ,
+
 {
          "name": "TH-VIP-True-KSO-04",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC04.ovpn"
       }
 ,
+
 {
          "name": "TH-VIP-True-KSO-44",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/kyaw4net.ovpn"
       }
 ,
+
 {
          "name": "TH-VIP-True-KSO-05",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/5.ovpn"
       }   
-,   
+,
+   
  {
          "name": "TH-VIP-True-KSO-06",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-NET06.ovpn"
       }    
 ,
+
 {
          "name": "TH-VIP-True-KSO-07",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-DTAC07.ovpn"
       }             
 ,
+
 {
          "name": "TH-VIP-True-KSO-08",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/net8.ovpn"
       }     
 ,
+
 {
          "name": "TH-VIP-True-KSO-09",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-KSO-VIP09.ovpn"
       }
 ,
+
 {
          "name": "TH-VIP-True-KSO-10",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-10.ovpn"
       }                            
 ,
+
 {
          "name": "TH-VIP-True-KSO-11",
          "url"- "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/TH-VIP-011.ovpn"
@@ -131,6 +154,6 @@
 5လ-200ဘတ်
 အားပေးမှုအတွက်ကျေးဇူးပါ
 \n\nFACEBOOK:KYAWSOEOO",
-"title":"File version 76" ,
-   "version":76
+"title":"File version 78" ,
+   "version":78
 }
